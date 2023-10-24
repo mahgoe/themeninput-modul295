@@ -11,7 +11,7 @@
 2. [Entity Framework](#entity-framework)  
    2.1 [NuGet Pakete](#nuget-pakete)  
    2.2 [DbContext Klasse](#dbcontext-klasse)  
-   2.3 [Enititätsklasse](#enititätsklasse)
+   2.3 [Entitätsklasse](#entitätsklasse)
 
 ---
 
@@ -136,7 +136,7 @@ public class MyDbContext : DbContext
 }
 ```
 
-## Enititätsklasse
+## Entitätsklasse
 
 `DbSet<TEntity>` repräsentiert eine Sammlung aller Entitäten in der Datenbank (oder in einem Tabelle/View), von einem gegebenen Typ.  
 Es bietet Methoden zum Abfragen, Hinzufügen, Entfernen und Aktualisieren von Entitäten.

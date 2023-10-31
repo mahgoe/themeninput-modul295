@@ -32,7 +32,7 @@ Einige bekannte OR-Mapper Frameworks sind:
 ## Sinn und Zweck
 
 ORM-Frameworks ermöglichen es Entwicklern, Datenbanktransaktionen auf einer höheren, objektorienterten Ebene zu behandeln,
-anstatt SQ-Abfragen direkt zu schreiben. Dies kann die Entwicklung beschleunigen und den Code lesbarer und wartbarer machen.
+anstatt SQL-Abfragen direkt zu schreiben. Dies kann die Entwicklung beschleunigen und den Code lesbarer und wartbarer machen.
 
 ## Voraussetzung
 

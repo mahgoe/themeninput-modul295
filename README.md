@@ -27,7 +27,6 @@ Einige bekannte OR-Mapper Frameworks sind:
 - Entity Framework (C#.NET)
 - Django ORM (Python)
 - Sequelize (JavaScript/Node.js)
-- ActiveRecord (Ruby on Rails)
 
 ## Sinn und Zweck
 
